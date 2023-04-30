@@ -1,4 +1,3 @@
-
 <!--
 **vishalt7/vishalt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,10 +28,21 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<br>
+
+<!-- PROFILE VIEW COUNT -->
+
+<div align="center">
+  <img height="28"; width="110" src="https://komarev.com/ghpvc/?username=vishalt7&style=flat-square">
+</div>
+
+<!-- GREETINGS -->
+
 
 ### <p align="center"> Hi there 👋 </p>
 
 <hr>
+
 <!-- ABOUT ME -->
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
