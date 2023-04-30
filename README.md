@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **vishalt7/vishalt7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,8 +29,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-----------------------------------
+
+### <p align="center"> Hi there 👋 </p>
+
+<hr>
 <!-- ABOUT ME -->
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ### :man_technologist: About Me :
 My name is Vishal Thakur and I am from 🇮🇳 .
@@ -40,7 +45,7 @@ My name is Vishal Thakur and I am from 🇮🇳 .
 - :seedling: Exploring Technical Tools.
 - :zap: In my free time, I solve technical problems and read tech articles.
 
---------------------------
+<hr>
 
 <!-- LANGUAGES AND TOOLS -->
 
@@ -55,7 +60,9 @@ My name is Vishal Thakur and I am from 🇮🇳 .
   <img src="https://user-images.githubusercontent.com/102405310/235349562-ecd95db5-638e-4044-8f42-316d1dbb84d4.png" alt="Kubernetes" width="120" height="40"/>&nbsp;
  <!-- <img src="" alt="Java" width="40" height="40"/>&nbsp; -->
 </div>
+
 -----------------
+
 <!-- GITHUB STATISTICS -->
 
 ### 🔥 My Stats:
