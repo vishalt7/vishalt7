@@ -69,3 +69,5 @@ My name is Vishal Thakur and I am from 🇮🇳 .
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishalt7&theme=dark&background=000000)](https://git.io/streak-stats)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalt7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br> <br>
+![Github stats](https://github-readme-stats.vercel.app/api?username=vishalt7&theme=highcontrast&show_icons=true&include_all_commits=true)
