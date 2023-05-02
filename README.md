@@ -28,13 +28,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<br>
 
-<!-- PROFILE VIEW COUNT -->
-
-<div align="center">
-  <img height="28"; width="110" src="https://komarev.com/ghpvc/?username=vishalt7&style=flat-square">
-</div>
 
 <!-- GREETINGS -->
 
