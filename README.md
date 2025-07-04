@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- INSERTING LINKED IN BADGE -->
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vishal-thakur-43b7b8206/">
+  <a href="https://www.linkedin.com/in/vishalthakurdev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
